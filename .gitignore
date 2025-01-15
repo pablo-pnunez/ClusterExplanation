@@ -1,12 +1,9 @@
 /.idea
 /.vscode
-/NewResults.xlsx
 /PRED.npy
 /REAL
-/SemPicClusterExplanation_barcelona_GS.xlsx
-/SemPicClusterExplanation_madrid_GS.xlsx
-/tst.out
-/tst1.out
+/*.xlsx
+/*.out
 /data
 /models/**/weights*
 /models/**/*.npy
