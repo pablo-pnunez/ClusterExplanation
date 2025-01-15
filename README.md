@@ -1,10 +1,8 @@
 # Description
 
-Repository with the code of the code of the paper entitled *"All-in-one picture: visual summary of items in a recommender system".*
-
+Repository with the code of the paper entitled *"All-in-one picture: visual summary of items in a recommender system".*
 
 # Cite
-
 
 ```Bibtex
 @article{perez2023all,
