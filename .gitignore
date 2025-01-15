@@ -7,5 +7,6 @@
 /tst.out
 /tst1.out
 /data
-/models
+/models/**/weights*
+/models/**/*.npy
 /logs 

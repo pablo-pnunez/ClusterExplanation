@@ -1,0 +1,1000 @@
+Epoch 1/500
+ - 7s - loss: 0.5527 - precision: 0.0027 - recall: 0.1518 - f1: 0.0039 - accuracy: 0.8684
+Epoch 2/500
+ - 3s - loss: 0.0998 - precision: 0.0114 - recall: 5.8037e-06 - f1: 1.1601e-05 - accuracy: 0.9978
+Epoch 3/500
+ - 3s - loss: 0.0264 - precision: 0.8689 - recall: 0.0803 - f1: 0.1431 - accuracy: 0.9980
+Epoch 4/500
+ - 3s - loss: 0.0166 - precision: 0.8746 - recall: 0.1696 - f1: 0.2823 - accuracy: 0.9981
+Epoch 5/500
+ - 3s - loss: 0.0133 - precision: 0.8908 - recall: 0.2265 - f1: 0.3601 - accuracy: 0.9982
+Epoch 6/500
+ - 3s - loss: 0.0118 - precision: 0.9210 - recall: 0.2612 - f1: 0.4058 - accuracy: 0.9983
+Epoch 7/500
+ - 3s - loss: 0.0107 - precision: 0.9486 - recall: 0.2900 - f1: 0.4432 - accuracy: 0.9984
+Epoch 8/500
+ - 3s - loss: 0.0099 - precision: 0.9659 - recall: 0.3151 - f1: 0.4741 - accuracy: 0.9985
+Epoch 9/500
+ - 3s - loss: 0.0092 - precision: 0.9682 - recall: 0.3427 - f1: 0.5055 - accuracy: 0.9985
+Epoch 10/500
+ - 3s - loss: 0.0086 - precision: 0.9726 - recall: 0.3721 - f1: 0.5375 - accuracy: 0.9986
+Epoch 11/500
+ - 3s - loss: 0.0081 - precision: 0.9780 - recall: 0.4026 - f1: 0.5696 - accuracy: 0.9987
+Epoch 12/500
+ - 3s - loss: 0.0076 - precision: 0.9802 - recall: 0.4285 - f1: 0.5956 - accuracy: 0.9987
+Epoch 13/500
+ - 3s - loss: 0.0072 - precision: 0.9820 - recall: 0.4527 - f1: 0.6191 - accuracy: 0.9988
+Epoch 14/500
+ - 3s - loss: 0.0068 - precision: 0.9810 - recall: 0.4734 - f1: 0.6381 - accuracy: 0.9988
+Epoch 15/500
+ - 3s - loss: 0.0064 - precision: 0.9807 - recall: 0.4944 - f1: 0.6569 - accuracy: 0.9989
+Epoch 16/500
+ - 3s - loss: 0.0061 - precision: 0.9797 - recall: 0.5142 - f1: 0.6740 - accuracy: 0.9989
+Epoch 17/500
+ - 3s - loss: 0.0057 - precision: 0.9789 - recall: 0.5323 - f1: 0.6892 - accuracy: 0.9989
+Epoch 18/500
+ - 3s - loss: 0.0054 - precision: 0.9799 - recall: 0.5512 - f1: 0.7052 - accuracy: 0.9990
+Epoch 19/500
+ - 3s - loss: 0.0051 - precision: 0.9793 - recall: 0.5713 - f1: 0.7213 - accuracy: 0.9990
+Epoch 20/500
+ - 3s - loss: 0.0049 - precision: 0.9802 - recall: 0.5887 - f1: 0.7353 - accuracy: 0.9991
+Epoch 21/500
+ - 3s - loss: 0.0046 - precision: 0.9811 - recall: 0.6064 - f1: 0.7492 - accuracy: 0.9991
+Epoch 22/500
+ - 3s - loss: 0.0044 - precision: 0.9816 - recall: 0.6267 - f1: 0.7647 - accuracy: 0.9992
+Epoch 23/500
+ - 3s - loss: 0.0041 - precision: 0.9825 - recall: 0.6445 - f1: 0.7781 - accuracy: 0.9992
+Epoch 24/500
+ - 3s - loss: 0.0039 - precision: 0.9825 - recall: 0.6608 - f1: 0.7899 - accuracy: 0.9992
+Epoch 25/500
+ - 3s - loss: 0.0037 - precision: 0.9838 - recall: 0.6759 - f1: 0.8011 - accuracy: 0.9993
+Epoch 26/500
+ - 3s - loss: 0.0035 - precision: 0.9831 - recall: 0.6896 - f1: 0.8104 - accuracy: 0.9993
+Epoch 27/500
+ - 3s - loss: 0.0034 - precision: 0.9809 - recall: 0.6980 - f1: 0.8154 - accuracy: 0.9993
+Epoch 28/500
+ - 3s - loss: 0.0039 - precision: 0.9445 - recall: 0.6484 - f1: 0.7685 - accuracy: 0.9991
+Epoch 29/500
+ - 3s - loss: 0.0039 - precision: 0.9405 - recall: 0.6366 - f1: 0.7590 - accuracy: 0.9991
+Epoch 30/500
+ - 3s - loss: 0.0034 - precision: 0.9693 - recall: 0.6898 - f1: 0.8058 - accuracy: 0.9993
+Epoch 31/500
+ - 3s - loss: 0.0029 - precision: 0.9853 - recall: 0.7367 - f1: 0.8429 - accuracy: 0.9994
+Epoch 32/500
+ - 3s - loss: 0.0027 - precision: 0.9897 - recall: 0.7619 - f1: 0.8609 - accuracy: 0.9995
+Epoch 33/500
+ - 3s - loss: 0.0025 - precision: 0.9912 - recall: 0.7774 - f1: 0.8712 - accuracy: 0.9995
+Epoch 34/500
+ - 3s - loss: 0.0023 - precision: 0.9913 - recall: 0.7883 - f1: 0.8781 - accuracy: 0.9995
+Epoch 35/500
+ - 3s - loss: 0.0022 - precision: 0.9913 - recall: 0.7971 - f1: 0.8836 - accuracy: 0.9995
+Epoch 36/500
+ - 3s - loss: 0.0021 - precision: 0.9912 - recall: 0.8053 - f1: 0.8885 - accuracy: 0.9996
+Epoch 37/500
+ - 3s - loss: 0.0020 - precision: 0.9902 - recall: 0.8113 - f1: 0.8918 - accuracy: 0.9996
+Epoch 38/500
+ - 3s - loss: 0.0020 - precision: 0.9892 - recall: 0.8169 - f1: 0.8947 - accuracy: 0.9996
+Epoch 39/500
+ - 3s - loss: 0.0019 - precision: 0.9890 - recall: 0.8233 - f1: 0.8985 - accuracy: 0.9996
+Epoch 40/500
+ - 3s - loss: 0.0018 - precision: 0.9880 - recall: 0.8277 - f1: 0.9007 - accuracy: 0.9996
+Epoch 41/500
+ - 3s - loss: 0.0018 - precision: 0.9867 - recall: 0.8308 - f1: 0.9020 - accuracy: 0.9996
+Epoch 42/500
+ - 3s - loss: 0.0017 - precision: 0.9852 - recall: 0.8322 - f1: 0.9022 - accuracy: 0.9996
+Epoch 43/500
+ - 3s - loss: 0.0017 - precision: 0.9850 - recall: 0.8371 - f1: 0.9050 - accuracy: 0.9996
+Epoch 44/500
+ - 3s - loss: 0.0016 - precision: 0.9861 - recall: 0.8466 - f1: 0.9109 - accuracy: 0.9996
+Epoch 45/500
+ - 3s - loss: 0.0015 - precision: 0.9885 - recall: 0.8564 - f1: 0.9176 - accuracy: 0.9997
+Epoch 46/500
+ - 3s - loss: 0.0014 - precision: 0.9886 - recall: 0.8627 - f1: 0.9213 - accuracy: 0.9997
+Epoch 47/500
+ - 3s - loss: 0.0013 - precision: 0.9886 - recall: 0.8680 - f1: 0.9243 - accuracy: 0.9997
+Epoch 48/500
+ - 3s - loss: 0.0013 - precision: 0.9895 - recall: 0.8752 - f1: 0.9288 - accuracy: 0.9997
+Epoch 49/500
+ - 3s - loss: 0.0012 - precision: 0.9891 - recall: 0.8795 - f1: 0.9310 - accuracy: 0.9997
+Epoch 50/500
+ - 3s - loss: 0.0012 - precision: 0.9892 - recall: 0.8836 - f1: 0.9334 - accuracy: 0.9997
+Epoch 51/500
+ - 3s - loss: 0.0012 - precision: 0.9873 - recall: 0.8826 - f1: 0.9320 - accuracy: 0.9997
+Epoch 52/500
+ - 3s - loss: 0.0011 - precision: 0.9859 - recall: 0.8821 - f1: 0.9311 - accuracy: 0.9997
+Epoch 53/500
+ - 3s - loss: 0.0011 - precision: 0.9851 - recall: 0.8836 - f1: 0.9315 - accuracy: 0.9997
+Epoch 54/500
+ - 3s - loss: 0.0011 - precision: 0.9831 - recall: 0.8829 - f1: 0.9303 - accuracy: 0.9997
+Epoch 55/500
+ - 3s - loss: 0.0012 - precision: 0.9770 - recall: 0.8732 - f1: 0.9221 - accuracy: 0.9997
+Epoch 56/500
+ - 3s - loss: 0.0022 - precision: 0.9168 - recall: 0.7762 - f1: 0.8403 - accuracy: 0.9994
+Epoch 57/500
+ - 3s - loss: 0.0024 - precision: 0.9134 - recall: 0.7622 - f1: 0.8307 - accuracy: 0.9993
+Epoch 58/500
+ - 3s - loss: 0.0015 - precision: 0.9596 - recall: 0.8333 - f1: 0.8919 - accuracy: 0.9996
+Epoch 59/500
+ - 3s - loss: 0.0011 - precision: 0.9859 - recall: 0.8881 - f1: 0.9344 - accuracy: 0.9997
+Epoch 60/500
+ - 3s - loss: 8.1199e-04 - precision: 0.9958 - recall: 0.9209 - f1: 0.9569 - accuracy: 0.9998
+Epoch 61/500
+ - 3s - loss: 6.8870e-04 - precision: 0.9984 - recall: 0.9372 - f1: 0.9668 - accuracy: 0.9999
+Epoch 62/500
+ - 3s - loss: 6.0968e-04 - precision: 0.9992 - recall: 0.9468 - f1: 0.9723 - accuracy: 0.9999
+Epoch 63/500
+ - 3s - loss: 5.5163e-04 - precision: 0.9994 - recall: 0.9534 - f1: 0.9758 - accuracy: 0.9999
+Epoch 64/500
+ - 3s - loss: 5.0597e-04 - precision: 0.9996 - recall: 0.9585 - f1: 0.9786 - accuracy: 0.9999
+Epoch 65/500
+ - 3s - loss: 4.6752e-04 - precision: 0.9997 - recall: 0.9627 - f1: 0.9808 - accuracy: 0.9999
+Epoch 66/500
+ - 3s - loss: 4.3207e-04 - precision: 0.9996 - recall: 0.9660 - f1: 0.9825 - accuracy: 0.9999
+Epoch 67/500
+ - 3s - loss: 4.0234e-04 - precision: 0.9996 - recall: 0.9695 - f1: 0.9843 - accuracy: 0.9999
+Epoch 68/500
+ - 3s - loss: 3.7349e-04 - precision: 0.9997 - recall: 0.9724 - f1: 0.9858 - accuracy: 0.9999
+Epoch 69/500
+ - 3s - loss: 3.4851e-04 - precision: 0.9996 - recall: 0.9748 - f1: 0.9871 - accuracy: 0.9999
+Epoch 70/500
+ - 3s - loss: 3.3053e-04 - precision: 0.9995 - recall: 0.9768 - f1: 0.9880 - accuracy: 0.9999
+Epoch 71/500
+ - 3s - loss: 3.1340e-04 - precision: 0.9995 - recall: 0.9783 - f1: 0.9888 - accuracy: 1.0000
+Epoch 72/500
+ - 3s - loss: 3.0736e-04 - precision: 0.9991 - recall: 0.9785 - f1: 0.9887 - accuracy: 1.0000
+Epoch 73/500
+ - 3s - loss: 3.1424e-04 - precision: 0.9985 - recall: 0.9767 - f1: 0.9875 - accuracy: 0.9999
+Epoch 74/500
+ - 3s - loss: 3.5979e-04 - precision: 0.9958 - recall: 0.9689 - f1: 0.9822 - accuracy: 0.9999
+Epoch 75/500
+ - 3s - loss: 6.0185e-04 - precision: 0.9816 - recall: 0.9337 - f1: 0.9570 - accuracy: 0.9998
+Epoch 76/500
+ - 3s - loss: 0.0014 - precision: 0.9325 - recall: 0.8497 - f1: 0.8890 - accuracy: 0.9995
+Epoch 77/500
+ - 3s - loss: 0.0020 - precision: 0.9061 - recall: 0.8051 - f1: 0.8525 - accuracy: 0.9994
+Epoch 78/500
+ - 3s - loss: 0.0017 - precision: 0.9207 - recall: 0.8238 - f1: 0.8695 - accuracy: 0.9995
+Epoch 79/500
+ - 3s - loss: 0.0011 - precision: 0.9553 - recall: 0.8729 - f1: 0.9121 - accuracy: 0.9996
+Epoch 80/500
+ - 3s - loss: 6.8344e-04 - precision: 0.9822 - recall: 0.9221 - f1: 0.9512 - accuracy: 0.9998
+Epoch 81/500
+ - 3s - loss: 4.2413e-04 - precision: 0.9957 - recall: 0.9572 - f1: 0.9761 - accuracy: 0.9999
+Epoch 82/500
+ - 3s - loss: 3.0176e-04 - precision: 0.9993 - recall: 0.9760 - f1: 0.9875 - accuracy: 0.9999
+Epoch 83/500
+ - 3s - loss: 2.4397e-04 - precision: 0.9997 - recall: 0.9842 - f1: 0.9919 - accuracy: 1.0000
+Epoch 84/500
+ - 3s - loss: 2.0895e-04 - precision: 1.0000 - recall: 0.9886 - f1: 0.9943 - accuracy: 1.0000
+Epoch 85/500
+ - 3s - loss: 1.8426e-04 - precision: 1.0000 - recall: 0.9918 - f1: 0.9959 - accuracy: 1.0000
+Epoch 86/500
+ - 3s - loss: 1.6449e-04 - precision: 1.0000 - recall: 0.9938 - f1: 0.9969 - accuracy: 1.0000
+Epoch 87/500
+ - 3s - loss: 1.4934e-04 - precision: 1.0000 - recall: 0.9954 - f1: 0.9977 - accuracy: 1.0000
+Epoch 88/500
+ - 3s - loss: 1.3536e-04 - precision: 1.0000 - recall: 0.9963 - f1: 0.9981 - accuracy: 1.0000
+Epoch 89/500
+ - 3s - loss: 1.2387e-04 - precision: 1.0000 - recall: 0.9972 - f1: 0.9986 - accuracy: 1.0000
+Epoch 90/500
+ - 3s - loss: 1.1394e-04 - precision: 1.0000 - recall: 0.9977 - f1: 0.9989 - accuracy: 1.0000
+Epoch 91/500
+ - 3s - loss: 1.0606e-04 - precision: 1.0000 - recall: 0.9983 - f1: 0.9991 - accuracy: 1.0000
+Epoch 92/500
+ - 3s - loss: 9.7488e-05 - precision: 1.0000 - recall: 0.9986 - f1: 0.9993 - accuracy: 1.0000
+Epoch 93/500
+ - 3s - loss: 9.0822e-05 - precision: 1.0000 - recall: 0.9990 - f1: 0.9995 - accuracy: 1.0000
+Epoch 94/500
+ - 3s - loss: 8.4645e-05 - precision: 1.0000 - recall: 0.9992 - f1: 0.9996 - accuracy: 1.0000
+Epoch 95/500
+ - 3s - loss: 7.8885e-05 - precision: 1.0000 - recall: 0.9994 - f1: 0.9997 - accuracy: 1.0000
+Epoch 96/500
+ - 3s - loss: 7.4082e-05 - precision: 1.0000 - recall: 0.9995 - f1: 0.9997 - accuracy: 1.0000
+Epoch 97/500
+ - 3s - loss: 6.9658e-05 - precision: 0.9999 - recall: 0.9997 - f1: 0.9998 - accuracy: 1.0000
+Epoch 98/500
+ - 3s - loss: 6.6050e-05 - precision: 0.9999 - recall: 0.9997 - f1: 0.9998 - accuracy: 1.0000
+Epoch 99/500
+ - 3s - loss: 6.3311e-05 - precision: 0.9999 - recall: 0.9998 - f1: 0.9998 - accuracy: 1.0000
+Epoch 100/500
+ - 3s - loss: 5.9591e-05 - precision: 0.9999 - recall: 0.9998 - f1: 0.9999 - accuracy: 1.0000
+Epoch 101/500
+ - 3s - loss: 5.8390e-05 - precision: 0.9999 - recall: 0.9998 - f1: 0.9998 - accuracy: 1.0000
+Epoch 102/500
+ - 3s - loss: 5.5801e-05 - precision: 0.9999 - recall: 0.9998 - f1: 0.9998 - accuracy: 1.0000
+Epoch 103/500
+ - 3s - loss: 5.2190e-05 - precision: 0.9999 - recall: 0.9998 - f1: 0.9999 - accuracy: 1.0000
+Epoch 104/500
+ - 3s - loss: 5.5793e-05 - precision: 0.9998 - recall: 0.9997 - f1: 0.9998 - accuracy: 1.0000
+Epoch 105/500
+ - 3s - loss: 1.2191e-04 - precision: 0.9978 - recall: 0.9941 - f1: 0.9959 - accuracy: 1.0000
+Epoch 106/500
+ - 3s - loss: 0.0027 - precision: 0.8713 - recall: 0.8097 - f1: 0.8389 - accuracy: 0.9993
+Epoch 107/500
+ - 3s - loss: 0.0044 - precision: 0.8005 - recall: 0.6957 - f1: 0.7440 - accuracy: 0.9989
+Epoch 108/500
+ - 3s - loss: 0.0020 - precision: 0.9048 - recall: 0.8083 - f1: 0.8537 - accuracy: 0.9994
+Epoch 109/500
+ - 3s - loss: 9.1479e-04 - precision: 0.9664 - recall: 0.8971 - f1: 0.9304 - accuracy: 0.9997
+Epoch 110/500
+ - 3s - loss: 4.9069e-04 - precision: 0.9916 - recall: 0.9461 - f1: 0.9683 - accuracy: 0.9999
+Epoch 111/500
+ - 3s - loss: 3.1862e-04 - precision: 0.9983 - recall: 0.9721 - f1: 0.9850 - accuracy: 0.9999
+Epoch 112/500
+ - 3s - loss: 2.3496e-04 - precision: 0.9996 - recall: 0.9850 - f1: 0.9922 - accuracy: 1.0000
+Epoch 113/500
+ - 3s - loss: 1.8479e-04 - precision: 0.9999 - recall: 0.9916 - f1: 0.9958 - accuracy: 1.0000
+Epoch 114/500
+ - 3s - loss: 1.5282e-04 - precision: 1.0000 - recall: 0.9956 - f1: 0.9978 - accuracy: 1.0000
+Epoch 115/500
+ - 3s - loss: 1.2957e-04 - precision: 1.0000 - recall: 0.9974 - f1: 0.9987 - accuracy: 1.0000
+Epoch 116/500
+ - 3s - loss: 1.1202e-04 - precision: 1.0000 - recall: 0.9985 - f1: 0.9993 - accuracy: 1.0000
+Epoch 117/500
+ - 3s - loss: 9.8863e-05 - precision: 1.0000 - recall: 0.9991 - f1: 0.9996 - accuracy: 1.0000
+Epoch 118/500
+ - 3s - loss: 8.8328e-05 - precision: 1.0000 - recall: 0.9996 - f1: 0.9998 - accuracy: 1.0000
+Epoch 119/500
+ - 3s - loss: 7.9521e-05 - precision: 1.0000 - recall: 0.9997 - f1: 0.9999 - accuracy: 1.0000
+Epoch 120/500
+ - 3s - loss: 7.2267e-05 - precision: 1.0000 - recall: 0.9998 - f1: 0.9999 - accuracy: 1.0000
+Epoch 121/500
+ - 3s - loss: 6.5799e-05 - precision: 1.0000 - recall: 0.9999 - f1: 0.9999 - accuracy: 1.0000
+Epoch 122/500
+ - 3s - loss: 6.0270e-05 - precision: 1.0000 - recall: 0.9999 - f1: 1.0000 - accuracy: 1.0000
+Epoch 123/500
+ - 3s - loss: 5.5350e-05 - precision: 1.0000 - recall: 0.9999 - f1: 1.0000 - accuracy: 1.0000
+Epoch 124/500
+ - 3s - loss: 5.1152e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 125/500
+ - 3s - loss: 4.7460e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 126/500
+ - 3s - loss: 4.4129e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 127/500
+ - 3s - loss: 4.1073e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 128/500
+ - 3s - loss: 3.8273e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 129/500
+ - 3s - loss: 3.5841e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 130/500
+ - 3s - loss: 3.3571e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 131/500
+ - 3s - loss: 3.1430e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 132/500
+ - 3s - loss: 2.9615e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 133/500
+ - 3s - loss: 2.7753e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 134/500
+ - 3s - loss: 2.6254e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 135/500
+ - 3s - loss: 2.4824e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 136/500
+ - 3s - loss: 2.3244e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 137/500
+ - 3s - loss: 2.2173e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 138/500
+ - 3s - loss: 2.0787e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 139/500
+ - 3s - loss: 1.9866e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 140/500
+ - 3s - loss: 1.8734e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 141/500
+ - 3s - loss: 1.7889e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 142/500
+ - 3s - loss: 1.7072e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 143/500
+ - 3s - loss: 1.6169e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 144/500
+ - 3s - loss: 1.5303e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 145/500
+ - 3s - loss: 1.4888e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 146/500
+ - 3s - loss: 1.4448e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 147/500
+ - 3s - loss: 1.4013e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 148/500
+ - 3s - loss: 1.4163e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 149/500
+ - 3s - loss: 1.8529e-05 - precision: 0.9999 - recall: 0.9998 - f1: 0.9999 - accuracy: 1.0000
+Epoch 150/500
+ - 3s - loss: 0.0013 - precision: 0.9419 - recall: 0.9237 - f1: 0.9325 - accuracy: 0.9997
+Epoch 151/500
+ - 3s - loss: 0.0059 - precision: 0.7471 - recall: 0.6645 - f1: 0.7028 - accuracy: 0.9988
+Epoch 152/500
+ - 3s - loss: 0.0022 - precision: 0.8933 - recall: 0.7990 - f1: 0.8431 - accuracy: 0.9993
+Epoch 153/500
+ - 3s - loss: 9.4902e-04 - precision: 0.9633 - recall: 0.8963 - f1: 0.9285 - accuracy: 0.9997
+Epoch 154/500
+ - 3s - loss: 4.9614e-04 - precision: 0.9896 - recall: 0.9472 - f1: 0.9679 - accuracy: 0.9999
+Epoch 155/500
+ - 3s - loss: 3.0701e-04 - precision: 0.9977 - recall: 0.9737 - f1: 0.9856 - accuracy: 0.9999
+Epoch 156/500
+ - 3s - loss: 2.0889e-04 - precision: 0.9995 - recall: 0.9884 - f1: 0.9940 - accuracy: 1.0000
+Epoch 157/500
+ - 3s - loss: 1.5500e-04 - precision: 0.9999 - recall: 0.9949 - f1: 0.9974 - accuracy: 1.0000
+Epoch 158/500
+ - 3s - loss: 1.2172e-04 - precision: 1.0000 - recall: 0.9979 - f1: 0.9989 - accuracy: 1.0000
+Epoch 159/500
+ - 3s - loss: 1.0006e-04 - precision: 1.0000 - recall: 0.9992 - f1: 0.9996 - accuracy: 1.0000
+Epoch 160/500
+ - 3s - loss: 8.4799e-05 - precision: 1.0000 - recall: 0.9996 - f1: 0.9998 - accuracy: 1.0000
+Epoch 161/500
+ - 3s - loss: 7.3017e-05 - precision: 1.0000 - recall: 0.9998 - f1: 0.9999 - accuracy: 1.0000
+Epoch 162/500
+ - 3s - loss: 6.4329e-05 - precision: 1.0000 - recall: 0.9999 - f1: 1.0000 - accuracy: 1.0000
+Epoch 163/500
+ - 3s - loss: 5.7091e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 164/500
+ - 3s - loss: 5.1387e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 165/500
+ - 3s - loss: 4.6401e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 166/500
+ - 3s - loss: 4.2290e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 167/500
+ - 3s - loss: 3.8694e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 168/500
+ - 3s - loss: 3.5516e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 169/500
+ - 3s - loss: 3.2804e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 170/500
+ - 3s - loss: 3.0404e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 171/500
+ - 3s - loss: 2.8212e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 172/500
+ - 3s - loss: 2.6277e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 173/500
+ - 3s - loss: 2.4576e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 174/500
+ - 3s - loss: 2.2987e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 175/500
+ - 3s - loss: 2.1583e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 176/500
+ - 3s - loss: 2.0238e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 177/500
+ - 3s - loss: 1.9080e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 178/500
+ - 3s - loss: 1.7944e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 179/500
+ - 3s - loss: 1.6954e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 180/500
+ - 3s - loss: 1.5974e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 181/500
+ - 3s - loss: 1.5166e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 182/500
+ - 3s - loss: 1.4385e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 183/500
+ - 3s - loss: 1.3589e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 184/500
+ - 3s - loss: 1.2719e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 185/500
+ - 3s - loss: 1.2047e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 186/500
+ - 3s - loss: 1.1435e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 187/500
+ - 3s - loss: 1.0831e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 188/500
+ - 3s - loss: 1.0336e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 189/500
+ - 3s - loss: 1.0462e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 190/500
+ - 3s - loss: 1.1058e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 191/500
+ - 3s - loss: 2.3471e-05 - precision: 0.9997 - recall: 0.9996 - f1: 0.9997 - accuracy: 1.0000
+Epoch 192/500
+ - 3s - loss: 0.0021 - precision: 0.8972 - recall: 0.8682 - f1: 0.8822 - accuracy: 0.9995
+Epoch 193/500
+ - 3s - loss: 0.0039 - precision: 0.8114 - recall: 0.7428 - f1: 0.7751 - accuracy: 0.9991
+Epoch 194/500
+ - 3s - loss: 0.0014 - precision: 0.9276 - recall: 0.8640 - f1: 0.8945 - accuracy: 0.9996
+Epoch 195/500
+ - 3s - loss: 5.4654e-04 - precision: 0.9790 - recall: 0.9413 - f1: 0.9597 - accuracy: 0.9998
+Epoch 196/500
+ - 3s - loss: 2.6172e-04 - precision: 0.9958 - recall: 0.9775 - f1: 0.9866 - accuracy: 0.9999
+Epoch 197/500
+ - 3s - loss: 1.5561e-04 - precision: 0.9996 - recall: 0.9931 - f1: 0.9963 - accuracy: 1.0000
+Epoch 198/500
+ - 3s - loss: 1.0840e-04 - precision: 0.9999 - recall: 0.9982 - f1: 0.9991 - accuracy: 1.0000
+Epoch 199/500
+ - 3s - loss: 8.4780e-05 - precision: 1.0000 - recall: 0.9994 - f1: 0.9997 - accuracy: 1.0000
+Epoch 200/500
+ - 3s - loss: 6.9351e-05 - precision: 1.0000 - recall: 0.9999 - f1: 0.9999 - accuracy: 1.0000
+Epoch 201/500
+ - 3s - loss: 5.9139e-05 - precision: 1.0000 - recall: 0.9999 - f1: 1.0000 - accuracy: 1.0000
+Epoch 202/500
+ - 3s - loss: 5.1330e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 203/500
+ - 3s - loss: 4.5416e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 204/500
+ - 3s - loss: 4.0608e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 205/500
+ - 3s - loss: 3.6621e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 206/500
+ - 3s - loss: 3.3379e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 207/500
+ - 3s - loss: 3.0467e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 208/500
+ - 3s - loss: 2.8018e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 209/500
+ - 3s - loss: 2.5835e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 210/500
+ - 3s - loss: 2.3927e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 211/500
+ - 3s - loss: 2.2301e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 212/500
+ - 3s - loss: 2.0809e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 213/500
+ - 3s - loss: 1.9368e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 214/500
+ - 3s - loss: 1.8152e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 215/500
+ - 3s - loss: 1.6949e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 216/500
+ - 3s - loss: 1.5973e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 217/500
+ - 3s - loss: 1.5051e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 218/500
+ - 3s - loss: 1.4175e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 219/500
+ - 3s - loss: 1.3399e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 220/500
+ - 3s - loss: 1.2844e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 221/500
+ - 3s - loss: 1.2037e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 222/500
+ - 3s - loss: 1.1297e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 223/500
+ - 3s - loss: 1.0814e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 224/500
+ - 3s - loss: 1.0357e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 225/500
+ - 3s - loss: 9.7573e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 226/500
+ - 3s - loss: 9.4073e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 227/500
+ - 3s - loss: 8.9340e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 228/500
+ - 3s - loss: 8.4580e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 229/500
+ - 3s - loss: 8.0370e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 230/500
+ - 3s - loss: 7.5460e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 231/500
+ - 3s - loss: 7.2343e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 232/500
+ - 3s - loss: 6.8853e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 233/500
+ - 3s - loss: 6.7989e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 234/500
+ - 3s - loss: 6.7744e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 235/500
+ - 3s - loss: 6.3507e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 236/500
+ - 3s - loss: 5.7712e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 237/500
+ - 3s - loss: 5.5422e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 238/500
+ - 3s - loss: 5.4567e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 239/500
+ - 3s - loss: 5.9712e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 240/500
+ - 3s - loss: 4.5639e-04 - precision: 0.9758 - recall: 0.9680 - f1: 0.9718 - accuracy: 0.9999
+Epoch 241/500
+ - 3s - loss: 0.0048 - precision: 0.7877 - recall: 0.7283 - f1: 0.7565 - accuracy: 0.9990
+Epoch 242/500
+ - 3s - loss: 0.0018 - precision: 0.9064 - recall: 0.8458 - f1: 0.8748 - accuracy: 0.9995
+Epoch 243/500
+ - 3s - loss: 6.1647e-04 - precision: 0.9707 - recall: 0.9344 - f1: 0.9522 - accuracy: 0.9998
+Epoch 244/500
+ - 3s - loss: 2.6256e-04 - precision: 0.9945 - recall: 0.9766 - f1: 0.9855 - accuracy: 0.9999
+Epoch 245/500
+ - 3s - loss: 1.4394e-04 - precision: 0.9995 - recall: 0.9937 - f1: 0.9966 - accuracy: 1.0000
+Epoch 246/500
+ - 3s - loss: 9.7465e-05 - precision: 1.0000 - recall: 0.9985 - f1: 0.9992 - accuracy: 1.0000
+Epoch 247/500
+ - 3s - loss: 7.4508e-05 - precision: 1.0000 - recall: 0.9997 - f1: 0.9998 - accuracy: 1.0000
+Epoch 248/500
+ - 3s - loss: 6.1051e-05 - precision: 1.0000 - recall: 0.9999 - f1: 0.9999 - accuracy: 1.0000
+Epoch 249/500
+ - 3s - loss: 5.1660e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 250/500
+ - 3s - loss: 4.4799e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 251/500
+ - 3s - loss: 3.9376e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 252/500
+ - 3s - loss: 3.5150e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 253/500
+ - 3s - loss: 3.1693e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 254/500
+ - 3s - loss: 2.8610e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 255/500
+ - 3s - loss: 2.6153e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 256/500
+ - 3s - loss: 2.4000e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 257/500
+ - 3s - loss: 2.2161e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 258/500
+ - 3s - loss: 2.0455e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 259/500
+ - 3s - loss: 1.9023e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 260/500
+ - 3s - loss: 1.7695e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 261/500
+ - 3s - loss: 1.6521e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 262/500
+ - 3s - loss: 1.5469e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 263/500
+ - 3s - loss: 1.4502e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 264/500
+ - 3s - loss: 1.3608e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 265/500
+ - 3s - loss: 1.2809e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 266/500
+ - 3s - loss: 1.2088e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 267/500
+ - 3s - loss: 1.1399e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 268/500
+ - 3s - loss: 1.0776e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 269/500
+ - 3s - loss: 1.0183e-05 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 270/500
+ - 3s - loss: 9.6505e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 271/500
+ - 3s - loss: 9.1504e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 272/500
+ - 3s - loss: 8.6948e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 273/500
+ - 3s - loss: 8.2431e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 274/500
+ - 3s - loss: 7.8369e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 275/500
+ - 3s - loss: 7.4507e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 276/500
+ - 3s - loss: 7.0921e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 277/500
+ - 3s - loss: 6.7553e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 278/500
+ - 3s - loss: 6.4336e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 279/500
+ - 3s - loss: 6.1334e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 280/500
+ - 3s - loss: 5.8560e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 281/500
+ - 3s - loss: 5.5854e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 282/500
+ - 3s - loss: 5.3317e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 283/500
+ - 3s - loss: 5.1029e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 284/500
+ - 3s - loss: 4.8683e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 285/500
+ - 3s - loss: 4.6566e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 286/500
+ - 3s - loss: 4.4565e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 287/500
+ - 3s - loss: 4.2677e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 288/500
+ - 3s - loss: 4.0780e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 289/500
+ - 3s - loss: 3.9045e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 290/500
+ - 3s - loss: 3.7419e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 291/500
+ - 3s - loss: 3.5899e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 292/500
+ - 3s - loss: 3.4339e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 293/500
+ - 3s - loss: 3.2914e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 294/500
+ - 3s - loss: 3.1612e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 295/500
+ - 3s - loss: 3.0286e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 296/500
+ - 3s - loss: 2.9074e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 297/500
+ - 3s - loss: 2.7913e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 298/500
+ - 3s - loss: 2.6829e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 299/500
+ - 3s - loss: 2.5739e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 300/500
+ - 3s - loss: 2.4739e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 301/500
+ - 3s - loss: 2.3780e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 302/500
+ - 3s - loss: 2.2802e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 303/500
+ - 3s - loss: 2.1948e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 304/500
+ - 3s - loss: 2.1074e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 305/500
+ - 3s - loss: 2.0302e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 306/500
+ - 3s - loss: 1.9502e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 307/500
+ - 3s - loss: 1.8756e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 308/500
+ - 3s - loss: 1.8078e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 309/500
+ - 3s - loss: 1.7375e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 310/500
+ - 3s - loss: 1.6726e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 311/500
+ - 3s - loss: 1.6101e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 312/500
+ - 3s - loss: 1.5529e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 313/500
+ - 3s - loss: 1.4969e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 314/500
+ - 3s - loss: 1.4402e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 315/500
+ - 3s - loss: 1.3897e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 316/500
+ - 3s - loss: 1.3406e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 317/500
+ - 3s - loss: 1.2915e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 318/500
+ - 3s - loss: 1.2463e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 319/500
+ - 3s - loss: 1.2033e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 320/500
+ - 3s - loss: 1.1606e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 321/500
+ - 3s - loss: 1.1217e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 322/500
+ - 3s - loss: 1.0822e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 323/500
+ - 3s - loss: 1.0451e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 324/500
+ - 3s - loss: 1.0090e-06 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 325/500
+ - 3s - loss: 9.7514e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 326/500
+ - 3s - loss: 9.4202e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 327/500
+ - 3s - loss: 9.1143e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 328/500
+ - 3s - loss: 8.8122e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 329/500
+ - 3s - loss: 8.5258e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 330/500
+ - 3s - loss: 8.2403e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 331/500
+ - 3s - loss: 7.9709e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 332/500
+ - 3s - loss: 7.7196e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 333/500
+ - 3s - loss: 7.4726e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 334/500
+ - 3s - loss: 7.2362e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 335/500
+ - 3s - loss: 7.0171e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 336/500
+ - 3s - loss: 6.7884e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 337/500
+ - 3s - loss: 6.5900e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 338/500
+ - 3s - loss: 6.3856e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 339/500
+ - 3s - loss: 6.1867e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 340/500
+ - 3s - loss: 6.0007e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 341/500
+ - 3s - loss: 5.8235e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 342/500
+ - 3s - loss: 5.6527e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 343/500
+ - 3s - loss: 5.4928e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 344/500
+ - 3s - loss: 5.3301e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 345/500
+ - 3s - loss: 5.1767e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 346/500
+ - 3s - loss: 5.0334e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 347/500
+ - 3s - loss: 4.8873e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 348/500
+ - 3s - loss: 4.7545e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 349/500
+ - 3s - loss: 4.6226e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 350/500
+ - 3s - loss: 4.4980e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 351/500
+ - 3s - loss: 4.3765e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 352/500
+ - 3s - loss: 4.2594e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 353/500
+ - 3s - loss: 4.1431e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 354/500
+ - 3s - loss: 4.0358e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 355/500
+ - 3s - loss: 3.9339e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 356/500
+ - 3s - loss: 3.8355e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 357/500
+ - 3s - loss: 3.7339e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 358/500
+ - 3s - loss: 3.6432e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 359/500
+ - 3s - loss: 3.5518e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 360/500
+ - 3s - loss: 3.4617e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 361/500
+ - 3s - loss: 3.3774e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 362/500
+ - 3s - loss: 3.2992e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 363/500
+ - 3s - loss: 3.2190e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 364/500
+ - 3s - loss: 3.1463e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 365/500
+ - 3s - loss: 3.0723e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 366/500
+ - 3s - loss: 3.0041e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 367/500
+ - 3s - loss: 2.9354e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 368/500
+ - 3s - loss: 2.8669e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 369/500
+ - 3s - loss: 2.8048e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 370/500
+ - 3s - loss: 2.7429e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 371/500
+ - 3s - loss: 2.6839e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 372/500
+ - 3s - loss: 2.6295e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 373/500
+ - 3s - loss: 2.5734e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 374/500
+ - 3s - loss: 2.5176e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 375/500
+ - 3s - loss: 2.4664e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 376/500
+ - 3s - loss: 2.4184e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 377/500
+ - 3s - loss: 2.3675e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 378/500
+ - 3s - loss: 2.3198e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 379/500
+ - 3s - loss: 2.2757e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 380/500
+ - 3s - loss: 2.2311e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 381/500
+ - 3s - loss: 2.1879e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 382/500
+ - 3s - loss: 2.1472e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 383/500
+ - 3s - loss: 2.1077e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 384/500
+ - 3s - loss: 2.0685e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 385/500
+ - 3s - loss: 2.0308e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 386/500
+ - 3s - loss: 1.9955e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 387/500
+ - 3s - loss: 1.9590e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 388/500
+ - 3s - loss: 1.9236e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 389/500
+ - 3s - loss: 1.8909e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 390/500
+ - 3s - loss: 1.8586e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 391/500
+ - 3s - loss: 1.8275e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 392/500
+ - 3s - loss: 1.7965e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 393/500
+ - 3s - loss: 1.7665e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 394/500
+ - 3s - loss: 1.7381e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 395/500
+ - 3s - loss: 1.7098e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 396/500
+ - 3s - loss: 1.6825e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 397/500
+ - 3s - loss: 1.6562e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 398/500
+ - 3s - loss: 1.6299e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 399/500
+ - 3s - loss: 1.6055e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 400/500
+ - 3s - loss: 1.5802e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 401/500
+ - 3s - loss: 1.5569e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 402/500
+ - 3s - loss: 1.5336e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 403/500
+ - 3s - loss: 1.5115e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 404/500
+ - 3s - loss: 1.4894e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 405/500
+ - 3s - loss: 1.4673e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 406/500
+ - 3s - loss: 1.4468e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 407/500
+ - 3s - loss: 1.4269e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 408/500
+ - 3s - loss: 1.4069e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 409/500
+ - 3s - loss: 1.3872e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 410/500
+ - 3s - loss: 1.3683e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 411/500
+ - 3s - loss: 1.3500e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 412/500
+ - 3s - loss: 1.3322e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 413/500
+ - 3s - loss: 1.3146e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 414/500
+ - 3s - loss: 1.2978e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 415/500
+ - 3s - loss: 1.2814e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 416/500
+ - 3s - loss: 1.2647e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 417/500
+ - 3s - loss: 1.2484e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 418/500
+ - 3s - loss: 1.2333e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 419/500
+ - 3s - loss: 1.2179e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 420/500
+ - 3s - loss: 1.2030e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 421/500
+ - 3s - loss: 1.1883e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 422/500
+ - 3s - loss: 1.1744e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 423/500
+ - 3s - loss: 1.1604e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 424/500
+ - 3s - loss: 1.1469e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 425/500
+ - 3s - loss: 1.1337e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 426/500
+ - 3s - loss: 1.1205e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 427/500
+ - 3s - loss: 1.1081e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 428/500
+ - 3s - loss: 1.0952e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 429/500
+ - 3s - loss: 1.0830e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 430/500
+ - 3s - loss: 1.0712e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 431/500
+ - 3s - loss: 1.0594e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 432/500
+ - 3s - loss: 1.0485e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 433/500
+ - 3s - loss: 1.0368e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 434/500
+ - 3s - loss: 1.0259e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 435/500
+ - 3s - loss: 1.0151e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 436/500
+ - 3s - loss: 1.0046e-07 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 437/500
+ - 3s - loss: 9.9477e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 438/500
+ - 3s - loss: 9.8416e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 439/500
+ - 3s - loss: 9.7390e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 440/500
+ - 3s - loss: 9.6467e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 441/500
+ - 3s - loss: 9.5495e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 442/500
+ - 3s - loss: 9.4522e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 443/500
+ - 3s - loss: 9.3619e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 444/500
+ - 3s - loss: 9.2709e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 445/500
+ - 3s - loss: 9.1827e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 446/500
+ - 3s - loss: 9.0951e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 447/500
+ - 3s - loss: 9.0104e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 448/500
+ - 3s - loss: 8.9247e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 449/500
+ - 3s - loss: 8.8421e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 450/500
+ - 3s - loss: 8.7626e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 451/500
+ - 3s - loss: 8.6800e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 452/500
+ - 3s - loss: 8.6030e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 453/500
+ - 3s - loss: 8.5250e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 454/500
+ - 3s - loss: 8.4521e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 455/500
+ - 3s - loss: 8.3746e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 456/500
+ - 3s - loss: 8.3013e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 457/500
+ - 3s - loss: 8.2320e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 458/500
+ - 3s - loss: 8.1587e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 459/500
+ - 3s - loss: 8.0916e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 460/500
+ - 3s - loss: 8.0207e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 461/500
+ - 3s - loss: 7.9556e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 462/500
+ - 3s - loss: 7.8901e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 463/500
+ - 3s - loss: 7.8219e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 464/500
+ - 2s - loss: 7.7581e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 465/500
+ - 3s - loss: 7.6960e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 466/500
+ - 2s - loss: 7.6318e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 467/500
+ - 2s - loss: 7.5714e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 468/500
+ - 2s - loss: 7.5104e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 469/500
+ - 2s - loss: 7.4516e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 470/500
+ - 2s - loss: 7.3940e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 471/500
+ - 2s - loss: 7.3371e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 472/500
+ - 2s - loss: 7.2808e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 473/500
+ - 2s - loss: 7.2243e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 474/500
+ - 2s - loss: 7.1713e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 475/500
+ - 2s - loss: 7.1156e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 476/500
+ - 2s - loss: 7.0624e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 477/500
+ - 2s - loss: 7.0098e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 478/500
+ - 2s - loss: 6.9573e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 479/500
+ - 2s - loss: 6.9065e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 480/500
+ - 2s - loss: 6.8549e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 481/500
+ - 2s - loss: 6.8053e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 482/500
+ - 2s - loss: 6.7583e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 483/500
+ - 2s - loss: 6.7077e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 484/500
+ - 2s - loss: 6.6593e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 485/500
+ - 2s - loss: 6.6150e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 486/500
+ - 2s - loss: 6.5678e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 487/500
+ - 2s - loss: 6.5204e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 488/500
+ - 2s - loss: 6.4754e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 489/500
+ - 2s - loss: 6.4311e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 490/500
+ - 2s - loss: 6.3866e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 491/500
+ - 2s - loss: 6.3448e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 492/500
+ - 2s - loss: 6.3051e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 493/500
+ - 2s - loss: 6.2597e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 494/500
+ - 2s - loss: 6.2172e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 495/500
+ - 2s - loss: 6.1756e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 496/500
+ - 2s - loss: 6.1354e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 497/500
+ - 2s - loss: 6.0944e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 498/500
+ - 2s - loss: 6.0572e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 499/500
+ - 2s - loss: 6.0164e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000
+Epoch 500/500
+ - 2s - loss: 5.9796e-08 - precision: 1.0000 - recall: 1.0000 - f1: 1.0000 - accuracy: 1.0000

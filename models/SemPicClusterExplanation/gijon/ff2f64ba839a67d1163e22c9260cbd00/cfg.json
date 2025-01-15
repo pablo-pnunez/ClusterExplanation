@@ -1,0 +1,22 @@
+{
+    "dataset_config": {
+        "best_clusters_selection_mode": "all",
+        "city": "gijon",
+        "data_path": "/media/HDD/pperez/TripAdvisor/gijon_data/",
+        "min_imgs_per_rest": 5,
+        "min_usrs_per_rest": 5,
+        "only_positives": false,
+        "pctg_usrs": 0.25,
+        "rst_clustering_distance": "dot",
+        "save_path": "/media/HDD/pperez/TripAdvisor/gijon_data/",
+        "seed": 100
+    },
+    "model": {
+        "learning_rate": 0.0001,
+        "epochs": 4000,
+        "batch_size": 512,
+        "seed": 100,
+        "model_version": "h"
+    },
+    "data_filter": {}
+}
